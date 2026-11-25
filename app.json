@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "BalanceBot Monitor",
+    "slug": "balancebot-monitor",
+    "scheme": "balancebot",
+    "version": "0.2.0",
+    "orientation": "default",
+    "userInterfaceStyle": "dark",
+    "plugins": ["expo-router", "expo-status-bar", "expo-asset"],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
